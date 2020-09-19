@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>about me</title>
+</head>
+
+<body>
+	
+	<h2 id="r">about me</h2>
+		
+r follows here
+	
+	
+	
+	
+	i am <b>22</b>years old
+	<u>
+	<p>web based
+	information system
+	system analysis</p>
+
+	</u>
+	<table border="4">
+	<tr>
+		<td></td>
+		<th> movies</th>
+		<th>book</th>
+		<th> tv show</th>
+		
+		</tr>
+		<tr>
+		<th>nem  </th>
+		<td>mohmed</td>
+		<td> dina</td>
+		<td> saeed</td>
+</tr>
+		<tr>
+		<th> imog</th>
+	<td><img src="images/sudi.png" width="50" height="20"</td>
+	<td><img src="images/sudi.png" width="50" height="20"</td>
+	<td><img src="images/sudi.png" width="50" height="20"</td>
+		</tr>
+			
